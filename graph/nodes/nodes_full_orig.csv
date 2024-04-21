@@ -1,0 +1,709 @@
+Codice Reparto,Nome Reparto,Conteggio
+46720,CHIERI - Osp. Maggiore,90483
+20193,RM DEA,76582
+10001,MOL PS Medicina,40091
+10044,MOL 01-OBI EMERGENZA,35964
+20176,SA Pronto Soccorso,30168
+10505,Med Lavoro Personale ASO,23778
+10499,Med Lavoro Tamponi Antigenici,21459
+20099,RM Centro Prelievi,16294
+30030,CTO Direzione Sanitaria rischio occupazionale,14678
+20270,UF Direzione Sanitaria S.Anna,11942
+10003,MOL PS Chirurgia ospedaliera,8217
+30026,CTO AREA GRANDI TRAUMI,7735
+10014,MOL PS Chirurgia Univ,6890
+10372,MOL Chir Gen 1 U Deg 2p,6799
+10245,MOL Nefrologia Deg,6379
+30025,CTO P.S. PICCOLI TRAUMI,6183
+20568,RM ONCOEMATOLOGIA 6501,6015
+19000,MOL Centro Prelievi,5744
+10233,MOL Med Int 3 U Deg,5241
+20571,RM DH ONCO 6502 ONCOEMATOLOGICO,4928
+10198,MOL Urologia U DH,4855
+20355,SA S2C MEDIA INT 3706 G.O. 1U,4782
+30505,CTO DH I CLINICA ORTOPEDICA,4729
+10390,MOL Cardiochirurgia U Deg,4622
+10057,MOL Emodialisi SMOM,4473
+30994,CTO AMB  2901 Nefrologia e dialisi,4357
+10140,MOL Cardiologia U 3P DH,4292
+20524,RM DH DIAGN CHIR 3801 ORL,4168
+10045,MOL Trapianto renale Deg,4067
+20335,SA S2A MEDIA INT 3702 G.O. 4 OST,3743
+20340,SA S2B MEDIA INT 3701 G.O. 3 GIN,3660
+46860,MONCALIERI - Osp. Santa Croce,3655
+10142,MOL Gastroenterologia U DH,3408
+10035,MOL 2606A Med Int 5,3408
+20527,RM DH DIAGN CHIR 7801 URO PED,3343
+10002,MOL PS Neurologia,3105
+10046,MOL Trapianto renale TI,2992
+20400,SA DAY SURGERY 3707 IVG,2909
+30506,CTO DH ORTOP. TRAUMA 3,2886
+10240,MOL Cardiologia U 3P Deg,2699
+20395,SA WS GINECOLOGICA 3710 G.O. 2U,2694
+10391,MOL Neurochirurgia Deg,2565
+10249,MOL Ematologia Deg,2550
+10232,2610 Med Int 2 U Deg,2521
+10361,MOL Chir Gen 2 U Deg,2478
+10363,MOL Chir Gen Urg e PS 3 Deg,2434
+20520,RM DH DIAGN CHIR 1101 CHIR PED,2422
+10241,MOL Cardiologia U PT Deg,2419
+20523,RM DH DIAGN CHIR 3601 ORTOPEDIA,2416
+10398,MOL Urologia U Deg,2416
+11631,MOL 3402 Oculistica NOIMP,2302
+10389,MOL Chir Toracica U Deg,2250
+20522,RM DH DIAGN CHIR 1103 MLP,2240
+20368,SA S2D ALTA INT 3710 G.O. 2U,2190
+10583,MOL Med Int 4 Deg,2184
+20374,SA S1B MEDIA INT 3710 G.O. 2U,2141
+10242,MOL Gastroenterologia U Deg,2087
+20502,RM CARDIO 0801 CARDIOLOGIA,2087
+10632,MOL 3402 S.C. Oculistica U Day Hospital,2084
+10231,MOL Med Int 1 U Deg,2027
+20528,RM PEDIATRIA II 2401,2022
+48090,PECETTO T.SE - Clinica San Luca,1981
+10224,MOL 2606B Med Int 5,1837
+20555,RM SAN 6203,1809
+30599,CTO DH ORTOPEDIA ONCOLOGIA,1791
+20571,RM DH ONCO 6502 ONCOEMATOLOGI,1767
+20663,SA Ambulatorio Senologia Osp. DRG,1726
+20532,RM NPI 3301,1721
+10023,COVID1 2616 Reparto Emergenza,1703
+20395,SA WS GINECOLOGICA 3710 G.O.,1618
+20587,SA DAY SURGERY 3710 G.O. 2U,1596
+30010,CTO TRAUMATOLOGIA (P10),1592
+30338,OMA DH URO,1583
+10257,MOL Geriatria e malatt metab osso U Deg,1557
+10016,MOL DEA Med Urg TI,1496
+10255,MOL Ematologia U Deg,1478
+10103,MOL Chir Gen 2 U DH,1466
+10381,MOL Chir Vascolare Deg,1466
+10502,Med Lavoro Tamponi a rischio,1461
+20526,RM DH DIAGN CHIR 7601 NEUROCHIR,1457
+46700,CARMAGNOLA - Osp. San Lorenzo,1448
+10225,MOL Oncologia Medica 1 Deg,1423
+30502,CTO DH NCH,1395
+10049,COVID3 2619 molinette,1365
+20550,RM DH PED 5802 GASTROENT,1355
+10186,MOL Otorinolaringoiatria 2 U DH,1327
+46901,ASL TO3,1322
+30002,CTO 3001 Neurochirurgia,1303
+20573,RM PNEUMOLOGIA 6801,1221
+10366,MOL 0964 SSD Week Surgery Degenza Ordinaria,1221
+10013,MOL Psichiatria SPDC Deg,1218
+10384,MOL Week Surgery Urologia U Deg,1212
+46178,TORINO Policlinico S. Luca S.r.L.,1210
+30416,CTO 3604 Ortopedia e Traumatologia I clinica,1209
+20412,SA TIN OSPEDALE 7301,1190
+10018,MOL Chir Vascolare U Deg,1183
+30912,CTO 3607 Ortopedia e Traumatologia MA (CTO),1176
+30577,CTO DH CHIR. VERTEBRALE,1169
+10264,MOL Stroke-unit SSD Deg,1154
+10256,MOL Endocrinologia Deg,1128
+10004,MOL PS Anest e Rianimazione 10 SSCVD,1122
+20384,SA WS GINECOLOGICA 3701 G.O. 3 ONCO,1106
+10020,MOL Cardiologia U 3P TI,1045
+30151,CTO 7502 Cerebrolesioni,1040
+10506,MOL Cure Palliative Deg. Ord. 6403,1039
+20575,RM NEFROLOGIA 5802 GASTROENT,1031
+20523,RM DH DIAGN CHIR 3601 ORTOPED,1007
+20520,RM DH DIAGN CHIR 1101 CHIR PE,1006
+10257,MOL Geriatria e malatt metab,991
+10368,MOL Chir Gen 1 U Prericovero,961
+20663,SA Ambulatorio Senologia Osp.,938
+D002,SA Donatori solo esami,929
+10237,MOL Insuff epatica e trap epat SSD Deg,901
+10055,MOL Emodialisi Molinette Amb,885
+10396,MOL Otorinolaringoiatria 2 U Deg,884
+10052,COVID6 2625 Molinette,873
+20577,RM CARDIO 0601 CARDIOCHIR,855
+10258,MOL Ospedalizzazione domiciliare,803
+20553,RM RIANIMAZIONE E T.I. 4902,797
+10394,MOL Chir Maxillo-Facciale U Deg,787
+10012,MOL Neurologia 3 Deg,769
+30157,CTO Degenza 3 piano USU,756
+30504,CTO DH CHIR. PLASTICA GENERALE,744
+10632,MOL 3402 S.C. Oculistica U Da,732
+10190,MOL Cardiochirurgia U Trapianto DH,720
+20326,SA NIDO CLINICA 3102,718
+30124,CTO ORTOP. 1 CL (P13),715
+10034,MOL Neuroradiologia interventistica SSD,715
+30993,CTO AMB  2901 Nefrologia e dialisi (Valletta),707
+30077,CTO 3602 Chirurgia Vertebrale,705
+10557,MOL Dermatologia chirurgica,696
+10251,MOL Coord.Ass.Psichiatrico Osp-Territorio Deg,692
+20526,RM DH DIAGN CHIR 7601 NEUROCH,684
+10370,MOL Chir Oncologica SSD Deg,674
+10168,MOL Chir Gen 1 U DH,671
+10445,MOL Nefrologia-Trapianti Amb Centrali,665
+30049,CTO 361202 Oncologia Ricostruttiva Amb 1,657
+20535,RM PEDIATRIA D'URGENZA 3901,653
+20414,SA TIN CLINICA 7302,645
+46920,RIVOLI - Ospedale,643
+10019,MOL Chir Vasc U Prericovero,637
+20542,RM PED. UNIV. 3916 PEDIATRIA 1U,615
+10579,MOL Chir Plastica U Prericovero Day Surgery,610
+10506,MOL Cure Palliative Deg. Ord.,563
+10585,MOL Chir Plastica e ricostrutt U Deg,562
+10384,MOL Week Surgery Urologia U D,560
+10186,MOL Otorinolaringoiatria 2 U,557
+30912,CTO 3607 Ortopedia e Traumato,556
+30503,CTO DH CHIR. PLASTICA GU.,553
+30801,COVID CTO 2501 Medicina del Lavoro U,551
+10073,0910 Trapianti Fegato CH Gen 2U,539
+10169,MOL Chir Oncologica SSD Prericovero,515
+30416,CTO 3604 Ortopedia e Traumato,509
+10521,MOL Banca delle Cornee IT,503
+20554,RM RIANIMAZIONE CARDIO 4904,496
+10281,MOL Chir Vasc Prericovero DH,479
+10266,MOL Trap allo cellule stamina,477
+10153,MOL Neurologia 1 DH,477
+10238,MOL Neurologia 1 Deg C,476
+10366,MOL 0964 SSD Week Surgery Deg,474
+10250,MOL Psichiatria-CPR DCA Deg U,461
+10252,MOL Neurologia 2 U Deg C,457
+20569,RM CENTRO TRAPIANTI 6503,450
+30001,CTO RIANIMAZ. SUD (P01),445
+30020,CTO CENTRO G.U. (P03),436
+10511,MOL Pneumologia Deg,426
+10601,MOL Oncologia Med 2 Deg,424
+30021,CTO RIANIMAZ. NORD (P01),419
+10004,MOL PS Anest e Rianimazione 1,414
+10266,MOL Trap allo cellule staminali SSD Deg,405
+10194,MOL Chir Maxillo-Facciale U DH,395
+30412,CTO TRAUM. MANO (P15),395
+10163,MOL Chir Gen Urg e PS 3 Prericovero DH,392
+20549,RM DH 3 PED 3905 AUXOLOGIA,390
+10025,MOL TI 4907D Anestesia e Rianimaz 1 U Deg,382
+10461,MOL Chir Gen 2 U Amb,376
+10237,MOL Insuff epatica e trap epa,370
+10259,MOL Radioterapia U Deg,357
+10516,MOL Immunologia Trapianti,351
+10396,MOL Otorinolaringoiatria 2 U,351
+20328,SA S1A FISIOLOGIA 3701 G.O. 3 GIN,349
+10258,MOL Ospedalizzazione domicili,348
+10021,MOL Cardiologia U PT TI,344
+10374,MOL Chir Gen 1 U Deg Dogliotti,342
+20329,SA S1A FISIOLOGIA 3702 G.O. 4 OST,339
+46260,ORBASSANO - AOU San Luigi,334
+48020,TORINO - Clinica Pinna Pintor,334
+30049,CTO 361202 Oncologia Ricostru,328
+46861,OSP Ospedale Moncalieri DEA,321
+30013,CTO CHIR. GENERALE (P13),307
+40141,S. GIACOMO SUSA RSA Villa Cora,304
+40159,RIVOLI - Igiene sanita' pubblica,303
+20384,SA WS GINECOLOGICA 3701 G.O.,299
+10134,MOL Medicina Amb Centr SSD DH,293
+10228,MOL Endocrinologia Oncologica Deg,292
+10005,COVID1 TI 4907A Anestesia Rianimazione 1 U Deg,291
+30801,COVID CTO 2501 Medicina del L,291
+10633,MOL 3402 S.C. Oculistica U Degenza Ordinaria,286
+10034,MOL Neuroradiologia intervent,286
+10143,MOL Dietetica DH,285
+10011,MOL DEA Med Urg Deg,284
+10394,MOL Chir Maxillo-Facciale U D,278
+10445,MOL Nefrologia-Trapianti Amb,276
+10399,MOL ORL 2 U DH Centralizzato,275
+10167,MOL Riab orale protesi mx facciale DH CNTHC,274
+10050,COVID4 2621 Degenza 4 Molinette,272
+10374,MOL Chir Gen 1 U Deg Dogliott,267
+10251,MOL Coord.Ass.Psichiatrico Os,262
+10149,MOL Ematologia COES DH,260
+10555,MOL Dermo Prericovero DH Centralizzato,248
+20440,SA Centro Nascita 3710 G.O. 2U,247
+30014,CTO 2501 Medicina Lavoro,246
+10022,MOL PS 01 Medico di Famiglia NEW,240
+19202,MOL SeREMI Alessandria,238
+10006,MOL Anestesia Rianimazione 2 Deg 4901A,233
+10437,MOL Insuff epatica e trap epat SSD Amb,229
+10243,MOL Dietetica Deg,229
+10189,MOL Neurochirurgia Prericovero Day Surgery,226
+10492,MOL 3014 SSD Chir Basicranio,225
+10073,0910 Trapianti Fegato CH Gen,221
+10008,MOL Anestesia in Cardiochir SSD 3p,221
+40158,CASELLE - Aeroporto,219
+46170,TORINO - San Giovanni Bosco,218
+10017,MOL PS OBI,215
+30065,CTO MdL Universita' di Torino,212
+46721,OSP Ospedale Chieri DEA,211
+10190,MOL Cardiochirurgia U Trapian,204
+46140,TORINO - Osp. Humanitas Gradenigo,203
+19017,MOL Esterni IT PreTXRene,202
+20485,RM CHIR ALTA 1101 CHIR PED,199
+10025,MOL TI 4907D Anestesia e Rian,195
+10169,MOL Chir Oncologica SSD Preri,194
+40124,PIANEZZA RSA Villa Iris,190
+D001,A Donatori,188
+20498,RM CHIR ALTA 7601 NEUROCHIR,185
+10048,COVID CPAP1 4983 molinette,182
+10036,MOL 4901C Anest e Rianim 2,182
+40101,NICHELINO RSA S.Matteo,181
+10579,MOL Chir Plastica U Prericove,181
+10585,MOL Chir Plastica e ricostrut,181
+10492,MOL 3014 SSD Chir Basicranio e Ipofisaria Degenza,181
+30153,CTO Degenza 2 piano USU,180
+10005,COVID1 TI 4907A Anestesia Ria,180
+10063,COVID9 2634 Molinette,179
+10239,MOL Neuro Oncologia Clinica SSD Deg,177
+46903,ASL TO5,176
+40118,MONTANARO RSA Anni Azzurri,174
+11425,MOL Oncologia Medica 1 SDA COES,174
+46150,TORINO - Osp. Maria Vittoria,174
+10260,MOL Neuro Chir Stereot Onc Deg,172
+10148,MOL Reumatologia DH (Fusaro],171
+46840,TORINO - AOU Ordine Mauriziano,170
+20576,RM NEFROLOGIA 7701,167
+40123,SETTIMO T.SE RSA Residenza 5 torri,165
+40143,BIELLA RSA Cerino Zegna Occhieppo,165
+D002,A Donatori solo esami,163
+10194,MOL Chir Maxillo-Facciale U D,158
+10040,COVID CPAP1 6804 Pneumologia Emergenza,157
+40132,PIANEZZA RSA S.Anna,155
+10273,MOL 1802 Trapianto Allogenico Cell. Staminali,153
+10604,MOL Oncologia Med 2 Amb,151
+40117,CORIO RSA Massa de Regibus RAF,151
+10056,COVID8 2627 Molinette,151
+10152,MOL Neurologia 2 U DH,150
+10058,COVID 2630 Ospedale da Campo - Valentino 1,150
+10555,MOL Dermo Prericovero DH Cent,149
+10047,COVID2 2618 molinette,148
+30123,CTO CHIR. PL. GEN. (P12),148
+20329,SA S1A FISIOLOGIA 3702 G.O. 4,147
+10228,MOL Endocrinologia Oncologica,146
+46870,NOVI LIGURE - Osp. San Giacomo,146
+10633,MOL 3402 S.C. Oculistica U De,137
+10525,MOL 9402 Terapia Semintensiva,135
+10165,MOL Riab orale protesi mx facciale DH CNT,135
+20542,RM PED. UNIV. 3916 PEDIATRIA,134
+46240,TORINO - Osp. Martini,134
+10155,MOL Ematologia U COES DH,133
+10239,MOL Neuro Oncologia Clinica S,131
+46151,OSP Ospedale Maria Vittoria DEA,130
+20402,SA ANESTESIA E RIANIMAZIONE 4912,130
+46900,PINEROLO - Ospedale,129
+40103,BORGARO RSA Casa Mia,128
+20204,RM Centro Trasfusionale,127
+10167,MOL Riab orale protesi mx fac,125
+20328,SA S1A FISIOLOGIA 3701 G.O. 3,119
+40102,CHIVASSO RSA Opera Pia Clara,119
+10147,MOL Nefrologia DH,118
+10561,MOL Dermatologia U,116
+30009,CTO CHIR.PL.GU (P12),116
+11571,MOL Dermo U NOIMP,115
+20409,SA LIBERA PROF 371062 G.O. 2U,114
+10163,MOL Chir Gen Urg e PS 3 Preri,112
+20408,SA LIBERA PROF 370662 G.O. 1U,111
+QCS-1,Controllo di Qualit�,110
+40155,BUTTIGLIERA D'ASTI RSA Casa di riposo Rossi,104
+40154,MONCALIERI RSA Latour,103
+30501,CTO DH RIANIMAZIONE 1 DH,102
+10043,COVID2 TI 4982 Reparto d'emergenza,102
+20169,SA Sala Cesarei,100
+10156,MOL Endocrinologia DH,98
+40136,VALLE MOSSO RSA Emilio Reda,98
+40137,BRUSNENGO RSA,96
+40120,BAIRO RSA Residence del Frate,96
+20462,RM CHIR MBASSA 1101 PED,93
+21318,RM DS Dialisi NOIMP,93
+10260,MOL Neuro Chir Stereot Onc De,92
+40125,PIANEZZA RSA Villa Papa Giovanni,92
+30807,COVID CTO 3604 Ortopedia 1 U,91
+40138,RUBIANA RSA NS Signora di Lourdes,88
+40153,TORINO RSA Residence Senior,88
+40109,PINEROLO RSA Fondazione Pietro Giachetti,87
+20534,RM DH NEUROLOGIA 3302,86
+40140,RIVALTA RSA Bianca Della Valle,85
+19201,MOL Sperim Cliniche - Microbiologia,84
+40112,CASTAGNOLE D'ASTI RSA Residenza S. Giovanni,84
+VEQ -,ntrollo di Qualit� Esterni,84
+46760,CUNEO - A.O S. Croce e Carle,83
+10515,MOL Banca del Sangue Amb Trasfusionale,83
+10008,MOL Anestesia in Cardiochir S,82
+40114,VIVERONE RSA Casa Cura San Giorgio,81
+10388,MOL 0804 - Centro GUCH - Degenza Ordinaria,81
+10189,MOL Neurochirurgia Prericover,79
+20404,SA LIBERA PROF 370162 G.O. 3,75
+40152,SANGANO RSA Villa Maria,74
+10359,MOL Chir Gen 2 U Prericovero Day Surgery,73
+20275,COVID SA 3713 Osservazione Temporanea,72
+20159,SA Sala Parto,71
+40134,CAVAGLIA' RSA Fondaz. Infermeria Cesare Vercellone,71
+10524,MOL Banca del Sangue Amb Donatori,71
+40121,CANELLI RSA Casa di riposo Giulio e Rachele Bosca,70
+40144,TRIVERO RSA San Bernardo,70
+10059,MOL Dialisi peritoneale domiciliare,69
+20531,RM DH MAL INF 3915 IMMUNOREUM.,68
+10525,MOL 9402 Terapia Semintensiva - Pneumologia U,68
+40122,SORDEVOLO RSA N.Simonetti e NS d'Oropa,67
+20096,RM Centro Prelievi LP,66
+40128,BIELLA RSA Belletti Bona,65
+40127,CAMBURZANO RSA S.Eusebio,64
+40105,OCCHIEPPO SUPERIORE RSA CDR Pozzo Ameris,63
+40156,GIAVENO RSA Ramello,61
+10334,MOL Medicina Amb Centr SSD DS,60
+10449,MOL Ematologia Amb COES,60
+10154,MOL Psichiatria CPR DCA DH U,60
+20324,SA NIDO OSPEDALE 3101,60
+11449,MOL Ematologia SDA COES,58
+20217,SA Sala Operatoria S.Anna,57
+20418,RM 3916 Pediatria-Degenza Temporanea 4° Piano,57
+20405,SA LIBERA PROF 370262 G.O. 4 OST,57
+10437,MOL Insuff epatica e trap epa,56
+40100,CARMAGNOLA RSA S.Antonio,55
+10061,COVID CPAP1 9401 molinette,55
+10277,MOL Pneumologia DS Trap Polmone,55
+46921,OSP Ospedale Rivoli DEA,55
+10062,COVID5 2633 Molinette - grigio,54
+46171,OSP Ospedale Giovanni Bosco DEA,54
+40130,CANTALUPA RSA Pro-Senectude,54
+46520,ACQUI TERME - Osp. Civile,54
+46701,OSP Ospedale Carmagnola DEA,54
+10139,MOL Neuro Oncologia Clinica SSD DH,53
+20440,SA Centro Nascita 3710 G.O. 2,53
+10345,MOL Nefrologia DS,53
+40147,VENARIA RSA Piccola Reggia,53
+40148,BRUSASCO RSA Annunziata,52
+46261,OSP Ospedale San Luigi DEA - Orbassano,52
+46600,ASTI - Osp. Cardinal Massaia,51
+20530,RM DH MAL INF 2401,51
+10515,MOL Banca del Sangue Amb Tras,51
+10492,MOL 3014 SSD Chir Basicranio e Ipofisaria Deg,51
+10165,MOL Riab orale protesi mx fac,51
+40139,RIVOLI RSA San Giovanni Bosco,51
+10560,MOL Dermo U SDO Oncologia DH 2p-dx,50
+40106,CASALBORGONE RSA Ospizio Fondazione Rippa Petracca,50
+30803,COVID CTO 4902 Anestesia e Rianimazione 3,50
+20476,RM CHIR MBASSA 3601 ORTOPEDIA,50
+20581,SA DS 4a Clin. Univ. Ost. UMF,49
+20590,RM DAY SURGERY 3402 Oculistica U,49
+40150,PINEROLO Drive Through,49
+46740,CIRIE' - Ospedale,48
+11466,MOL Trap allo cellule staminali SSD SDA,48
+10425,MOL Oncologia Medica 1 Amb COES,48
+10022,MOL PS 01 Medico di Famiglia,47
+10144,MOL Ambulatorio Mielomi Bringhen - DH,47
+10455,MOL Ematologia U Amb COES,47
+46241,OSP Ospedale Martini DEA,45
+40111,SAN MAURO T.SE RSA Mezzaluna,45
+40119,SAN MAURIZIO C.SE RSA Casa dei Pini,44
+10005,COVID1 TI 4907A Anestesia Rianimazione 1 U De,44
+20541,RM PED. UNIV. 1907B DIABETOLOGIA,44
+46800,IVREA - Ospedale,44
+46690,CASALE M.TO - Osp. Santo Spirito,44
+30081,CTO 0401 Week Hospital CTO,43
+10166,MOL Trap allo cellule staminali SSD DH,42
+20570,RM DH ONCO 1801 EMATOLOGIA,42
+20544,RM DH 3 PED 1901 ENDOCRINOLOGIA,42
+20402,SA ANESTESIA E RIANIMAZIONE 4,41
+10524,MOL Banca del Sangue Amb Dona,41
+20393,SA WS GINECOLOGICA 3706 G.O. 1U,41
+40107,MONCALIERI RSA Suore Cottolengo di Strada Castelv,41
+20491,RM CHIR ALTA 3601 ORTOPEDIA,40
+16093,MOL Dip. Riab-Att.dimisioni protette-Cure interme,40
+20404,SA LIBERA PROF 370162 G.O. 3 ONCO,39
+40151,SANGANO RSA PRO.GE.CO,39
+40129,COLLEGNO RSA M. Barbero,38
+10106,MOL Cure Palliative DH,38
+11455,MOL Ematologia U SDA COES,37
+10466,MOL Trap allo cellule staminali SSD Amb,37
+10087,MOL 4987 - Anest. e Rian. PS Degenza,37
+46550,ALESSANDRIA - A.O. SS. Antonio e Biagio e Cesare,37
+10571,MOL Dermo U Amb.,36
+40133,ALMESE RSA S. Maria al Getzemani,35
+47640,TORTONA - Osp. Civile SS. Antonio e Margherita,35
+46521,ACQUI TERME - Villa Igea Hospital,34
+10006,MOL Anestesia Rianimazione 2,34
+10388,MOL 0804 - Centro GUCH - Dege,34
+10051,COVID5 2622 Molinette,33
+40142,DORZANO RSA Citta' del Sole,33
+10290,MOL 0925-0202 Chirurgia Dermat. DH Multispec.,33
+10033,MOL Radiologia diagnostica 3 DH,32
+11563,MOL 5206-0924 Attivita' SDA -,31
+10360,MOL Chir Gen 2 U Donatori Org,31
+10444,MOL Ambulatorio Mielomi Bringhen - Amb,31
+10359,MOL Chir Gen 2 U Prericovero,31
+10262,MOL 3004-0202 DH Neuroch. Ste,30
+40104,LESSONA RSA Residenza Maria Gloria,29
+40116,VALDELLATORRE RSA G. S. Spinola Rossi di Montelera,29
+10166,MOL Trap allo cellule stamina,28
+11411,MOL DEA Med Urg NOIMP,28
+10033,MOL Radiologia diagnostica 3,28
+10736,MOL 6948 - 0202 DH Radiologia Interventistica,28
+46980,SUSA - Ospedale,28
+20578,RM FASI 1 ONCO EMATOLOGIA,26
+20538,RM PED. UNIV. 1901 ENDOCRINOLOGIA,26
+10262,MOL 3004-0202 DH Neuroch. Stereot. Onc. e Fun,26
+30806,COVID CTO 5601 Medicina fisica e riabilitazione U,26
+10059,MOL Dialisi peritoneale domic,24
+10083,MOL Emergenze ORL SSD Prericovero,24
+20590,RM DAY SURGERY 3402 Oculistic,24
+10360,MOL Chir Gen 2 U Donatori Organi,24
+46730,CHIVASSO - Osp. Chivasso,23
+10137,MOL Week Hosp Neurologia Deg 0401A,23
+20274,RM Amb. Imm. Mal. inf. e tropicali,22
+PROVA,MOL Sperimentazione clinica,22
+10077,MOL Pneumologia Trapianto polmone DH,22
+20547,RM DH 3 PED 3916 PEDIATRIA 1U,22
+46770,CUORGNE' - Ospedale,21
+10272,MOL 1801 Trapianto Allogenico Terapie Cell De,21
+10288,MOL 3212 Alzheimer Demenze e Ricerca Cefalee,21
+20483,RM CHIR MBASSA 7801 URO PED,20
+20938,SA DS 3a Clinica Univ. Ost.,20
+10262,MOL 3004-0202 DH Neuroch. Stereot. Onc. e Funz.,20
+40110,Punto di prelievo Drive Through,19
+40126,RSA Kursana,19
+40135,POLLONE - RSA Hotel Il Sole,19
+20563,SA DS Div. C Osp. Ostetr.,19
+10144,MOL Ambulatorio Mielomi Bring,18
+40238,CARMAGNOLA - Studio I.P.A.C.,18
+21146,RM DS Oncologia NOIMP,18
+40145,BIELLA RSA Psichiatrico Villa Margherita,18
+20441,SA S1B MEDIA INT 3712 MAL INF,18
+46630,BIELLA - osp. degli Infermi,18
+40108,PINEROLO RSA Fondazione  Attilio Fer,17
+10262,MOL 3004-0202 DH Neuroch. Stereot. Onc. e Funz. ,17
+10509,MOL SC Medicina Legale,17
+10490,MOL Cardiochirurgia Trapianti,16
+40157,TORINO RSA Il Porto,16
+20393,SA WS GINECOLOGICA 3706 G.O.,15
+10292,MOL 0925 Chirurgia Dermatologica Deg Ord,15
+11419,MOL 1402 Chir Vascolare U NOIMP,15
+30023,CTO Blocco Operatorio Ortoped,14
+10183,MOL Emergenze ORL SSD DH,14
+11425,MOL Oncologia Medica 1 SDA CO,14
+10343,MOL Nutrizione Clinica DS Pt ABEG Molinette,14
+20478,RM CHIR MBASSA 3801 ORL,14
+20538,RM PED. UNIV. 1901 ENDOCRINOL,14
+10910,MOL Gastro-Epatologia Amb SGAS,14
+10275,MOL 1802 Trapianto Allogenico Cel Stam DH,14
+20480,RM CHIR MBASSA 4601 G. UST.,14
+20500,RM CHIR ALTA 7801 URO PED,14
+20541,RM PED. UNIV. 1907B DIABETOLO,13
+40000,Refertazione per Altri Ospedali,13
+10564,MOL Dermo U SDO Prericovero D,13
+20544,RM DH 3 PED 1901 ENDOCRINOLOG,13
+D001,SA Donatori,13
+20552,RM DH PED 7701 NEFROLOGIA,13
+46560,TORINO - Osp. Amedeo di Savoia,13
+20251,SA Ambulatorio Oncologico,12
+10139,MOL Neuro Oncologia Clinica S,12
+10560,MOL Dermo U SDO Oncologia DH,12
+10371,MOL 0964 SSD Week Surgery Day Hospital,12
+20451,RM WDS 360104 WS ORTOPEDIA,11
+10800,MOL Sperim Cliniche,11
+11464,MOL Colonrectal cancer unit CRCU SSD SDA,11
+20403,SA DH ONCOLOGICO 6401,11
+10161,MOL 0901-Ch Gen d'urgenza e PS 3 DH,11
+46551,ALESSANDRIA Clinica Citta' di Alessandria Pl Monza,11
+20454,RM WDS 380104 WS ORL,11
+40113,SANDIGLIANO RSA Centro Anziani,11
+20086,SA Centro Prelievi LP,10
+11910,MOL Gastro-Epatologia NOIMP SGAS,10
+20543,RM DH MAL INF 0102 ALLERGOLOGIA,10
+20586,SA DAY SURGERY 3706 G.O. 1U,10
+20543,RM DH MAL INF 0102 ALLERGOLOG,10
+20481,RM CHIR MBASSA 7601 NEUROCHIR,9
+20493,RM CHIR ALTA 3801 ORL,9
+20580,SA DS Ginecologia Ostetricia 4 S3702DO,9
+10564,MOL Dermo U SDO Prericovero Day Surgery,8
+10125,MOL Oncologia Medica 1 COES DH,8
+20565,RM 3213 SSD Neurologia Pediatrica Deg,8
+30070,CTO Banca dell'Osso,8
+10464,MOL Colonrectal cancer unit CRCU SSD Amb,8
+46981,OSP Ospedale Susa DEA,8
+20559,RM DH 3 PED 3915 GENETICA,8
+47060,VERCELLI - Presidio Ospedaliero Sant'Andrea,7
+46000,PROCURA DELLA REPUBBLICA,7
+46731,OSP Ospedale Chivasso DEA,7
+10602,MOL Oncologia Med 2 DH Airoldi],7
+11466,MOL Trap allo cellule stamina,7
+20415,RM WDS 110104 WS CHIR PED,7
+20551,RM DH PED 5802 DIET N.CLIN,7
+20146,RM DS Oncologia,7
+20219,RM Sala Operatoria O.I.R.M.,7
+20809,RM DS Ematologia,7
+10121,MOL Percorsi medici DT SSD DH,6
+10077,MOL Pneumologia Trapianto pol,6
+11464,MOL Colonrectal cancer unit C,6
+46540,ALBA - Osp. San Lazzaro,6
+10549,MOL Anatomia Patologica 1U,6
+30017,CTO DH DIABETOLOGIA,6
+19201,MOL Sperim Cliniche - Microbi,6
+40149,VOLPIANO RSA Arnaud,6
+10523,MOL Banca del Sangue Amb Analisi,6
+10411,MOL DEA Med Urg Amb,6
+10112,MOL Neurologia 3 DH,5
+30803,COVID CTO 4902 Anestesia e Ri,5
+10383,MOL Emergenze ORL SSD Deg,5
+O01101,- Osped. MONCALIERI - S.CROCE LABORATORIO,5
+20531,RM DH MAL INF 3915 IMMUNOREUM,5
+47040,VENARIA - Ospedale,5
+10356,MOL Endocrinologia DS,5
+11485,MOL Chir Plastica e ricostrutt U NOIMP,5
+20814,RM DS Pneumologia,5
+10518,MOL DEA Amb Medici di base,5
+46580,AOSTA - Azienda USL Valle d'Aosta Ospedale U. Par,5
+10188,MOL Chir Toracica Multispec DH,5
+47050,CANDIOLO - I.R.C.C.S,5
+10421,MOL Percorsi medici DT SSD Amb,5
+10490,MOL Cardiochirurgia Trapianti Cuore Amb,5
+46960,SAVIGLIANO - Osp. SS. Annunziata,5
+10274,MOL 1801 Trapianto Allogenico e Terapie Cell.,4
+46810,OSP Laboratorio - Ivrea,4
+11428,MOL Endocrinologia Onc SDA COES,4
+10277,MOL Pneumologia DS Trap Polmo,4
+20580,SA DS Ginecologia Ostetricia,4
+46890,OVADA - Osp. Civile,4
+20464,RM WDS 760104 WS NEUROCHIR,4
+10732,MOL 6904 Radiologia 1 U Costi,4
+30082,CTO DH WEEK SURGERY,4
+20385,SA WS GINECOLOGICA 3702 G.O. 4 OST,4
+40131,ORBASSANO RSA San Giuseppe,4
+20327,SA NIDO CLINICA 6202 PATOLOGICO,4
+10732,MOL 6904 Radiologia 1 U Costi Comuni,3
+46002,ALESSANDRIA - Procura della Repubblica,3
+10161,MOL 0901-Ch Gen d'urgenza e P,3
+10522,MOL Banca del Sangue Amb Salassi,3
+11419,MOL 1402 Chir Vascolare U NOI,3
+10514,MOL Banca del Sangue Donatori,3
+10164,MOL Colonrectal cancer unit CRCU DH,3
+47080,NOVARA - AOU Maggiore della Carita,3
+10371,MOL 0964 SSD Week Surgery Day,3
+20385,SA WS GINECOLOGICA 3702 G.O.,3
+30805,COVID CTO 7502 Cerebrolesioni,3
+O00200,- Osped. AVIGLIANA CHIRURGIA,3
+20318,RM DS Dialisi,3
+30155,CTO DH Unita' spinale,3
+O00400,- Osped. CARMAGNOLA - S.LORENZO LABORATORIO,3
+20582,SA DAY SURGERY 3701 G.O. 3 ONCO,3
+20174,SA Poliambulatorio Ospedale,3
+O01101,- Osped. MONCALIERI - S.CROCE PEDIATRIA,3
+10355,MOL Ematologia U DS COES,3
+30080,CTO 9804 WH Day Surgery CTO,3
+20466,RM CHIR MBASSA 1103 MLP,3
+20241,COVID RM 4924 Rianimazione Pediatrica,3
+10602,MOL Oncologia Med 2 DH Airold,2
+47100,VERBANIA - ASL Verbano Cusio Ossola,2
+20489,RM CHIR ALTA 1103 MLP,2
+20380,SA GIN ONCO 3706 G.O. 1U,2
+20529,RM PEDIATRIA II 3915 PEDIATRIA,2
+30003,CTO 4902 Anestesia e Rianimazione 3,2
+10010,MOL Med Int 6 Deg,2
+20627,SA 6425 Onc. Medica Senologic,2
+10512,MOL Banca del Sangue CQ,2
+20583,SA DAY SURGERY 3702 G.O. 4 OST,2
+30027,CTO Chirurgia plastica Blocco Operatorio CTO,2
+20330,RM Fisiopatologia INT Ambulatorio,2
+10472,MOL Chir Gen 1 U Amb,2
+16089,MOL Dip. riabilitativo Lungodegenza Deg. Ord.,2
+10466,MOL Trap allo cellule stamina,2
+19061,MOL Diabetologia-Prelievi-C.,2
+20089,SA Centro Prelievi,2
+10444,MOL Ambulatorio Mielomi Bring,2
+40115,CAVOUR RSA Villa dei Tigli,2
+40116,VALDELLATORRE RSA G. S. Spinola Rossi di Monteleraa,2
+40000,Refertazione per Altri Ospeda,2
+11444,MOL Ambulatorio Mielomi Bringhen - SDA,2
+10270,MOL 1801 Trapianto Allog e Terapie Cel Amb,2
+20258,RM DS Pediatria Specialistica,2
+10428,MOL Endocrinologia Onc Amb COES,2
+11376,MOL 0964B-SSD Chir.Gen V. Genova NOIMP,2
+11345,MOL Nefrologia NOIMP,2
+20306,RM Oncologia Ambulatorio,2
+20237,RM Bambi,2
+10352,MOL Neurologia 2 U DS,1
+10187,MOL Litotripsia,1
+10271,MOL 1802 Trapianto Allogenico Cel Stam Amb,1
+10343,MOL Nutrizione Clinica DS Pt,1
+10195,MOL Otorinolaringoiatria 1 U DH,1
+20589,SA WS GINECOLOGICA 3715 LASER,1
+10179,MOL Urologia Ambulatorio,1
+46880,TORINO - Osp. Oftalmico,1
+QCS-1,Controllo di Qualità,1
+PROVA_,LI - PROVA_MOLI,1
+10064,MOL 6903 - Radiologia 3 - Amb,1
+O01601,- Osped. G.BOSCO P.S. DEA,1
+O01100,- Osped. MONCALIERI - S.CROCE GINECOLOGIA,1
+O0110,- Osped. MONCALIERI - S.CROCE LABORATORIO,1
+O008003,Osped. GRADENIGO,1
+O00800,- Osped. GRADENIGO,1
+O00401,- Osped. CARMAGNOLA - S.LORENZO UROLOGIA,1
+O00400,- Osped. CARMAGNOLA - S.LORENZO CHIRURGIA,1
+O00100,- Osped. ALBA - S.LAZZARO MED. ANTIVALIDANTE (MED,1
+10083,MOL Emergenze ORL SSD Prerico,1
+49035,LUSERNA SAN GIOVANNI - Casa di Cura RAF Maurizian,1
+48120,VERUNO - Fondazione IRCCS Maugeri,1
+48110,TORINO - Maria Pia Hospital,1
+48100,TORINO - Clinica Sedes Sapien,1
+10125,MOL Oncologia Medica 1 COES D,1
+48060,TORINO - Humanitas Cellini,1
+10367,MOL Chir Gen 4 DH Centralizzato,1
+10137,MOL Week Hosp Neurologia Deg,1
+10138,MOL Week Hosp Neurochir Deg 0401B,1
+46904,ASL Citt� di Torino,1
+10158,MOL Neurochirurgia DH,1
+46902,ASL TO4,1
+10159,MOL Radioterapia U DH,1
+10128,MOL Endocrinolgia Oncologica COES DH,1
+10631,MOL 3402 Oculistica Attivit� Amb.,1
+46552,ALESSANDRIA Clinica Salus,1
+20424,RM WDS 110304 WS CHIR MLP,1
+40106,CASALBORGONE RSA Ospizio Fondazione Rippa Petraccaa,1
+19020,MOL Centro Prelievi LP,1
+20114,RM Centro Trapianti Cellule Staminali e Ter. Cell.,1
+40040,OSP Ceva,1
+20213,SA Ecografia ost-gin e diagno,1
+20213,SA Ecografia ost-gin e diagnosi prenatale,1
+20241,COVID RM 4924 Rianimazione Pe,1
+20274,RM Amb. Imm. Mal. inf. e trop,1
+20275,COVID SA 3713 Osservazione Te,1
+20377,SA GIN ONCO 3702 G.O. 4 OST,1
+20413,SA TIN CLINICA 6202 NIDO PAT,1
+30411,CTO ORTOP.4,1
+20423,SA WS GINECOLOGICA 3726 BREAST UNIT,1
+20447,SA Amb Malattie Infettive IST,1
+10406,MOL Cure Palliative Amb 4p Abeg,1
+20459,RM WDS 780104 WS URO PED,1
+20511,RM CARDIO 3801 ORL,1
+30023,CTO Blocco Operatorio Ortopedia IV� Piano CTO,1
+30019,CTO DIABETOLOGIA (P13),1
+30011,CTO 3617 Traumatologia,1
+20571,RM DH ONCO 6502 ONCOEMATOLOGIA,1
+20572,RM DH ONCO 6503 CENTRO TRAPIA,1
+20572,RM DH ONCO 6503 CENTRO TRAPIANTI,1
+20574,RM NEFROLOGIA 4801 TRAPIANTO,1
+20574,RM NEFROLOGIA 4801 TRAPIANTO RENE,1
+20815,SA Centro Medicina Riproduzione,1
+20583,SA DAY SURGERY 3702 G.O. 4 OS,1
+20627,SA 6425 Onc. Medica Senologica Amb,1
+40107,MONCALIERI RSA Suore Cottolengo di Strada Castelve,1
+11574,MOL Dermo U Infantile NOIMP,1
+11563,MOL 5206-0924 Attivita' SDA - NOIMP,1
+11485,MOL Chir Plastica e ricostrut,1
+10420,MOL Allergologia Amb,1
+10421,MOL Percorsi medici DT SSD Am,1
+10424,MOL Med Int 5 Amb,1
+46174,TORINO-CP Area Via Le Chiuse,1
+10430,MOL Geriatria e Malattie Meta,1
+10434,MOL 2606 Med Int 5 Amb PT Poli DEA,1
+46003,AOSTA - Procura della Repubblica,1
+40960,OS Pisa S.Chiara,1
+10491,MOL Neurochirurgia Amb,1
+10496,MOL ORL 2 U Amb,1
+10500,Med Lavoro Pers ASO Infortuni,1
+10507,COVID Med Lavoro Personale AS,1
+10507,COVID Med Lavoro Personale ASO Sierologici,1
+10522,MOL Banca del Sangue Amb Sala,1
+10558,MOL Dermatologia chirurgica DH,1
+10572,MOL Dermo U Amb allergologia,1
+10578,MOL Chir Plastica U Prericove,1
+10605,MOL Onc. Med 2 Amb Senologia,1
+11017,MOL Esterni IT PreTXRene NOIMP,1
+11179,MOL Urologia Ambulatorio NOIM,1
+11193,MOL 1001 Chir Maxillo Facciale NOIMP,1
+11268,MOL Chir Oncologica NOIMP C.so Dogliotti,1
+11427,MOL Onc Med 1 SDA Pre terapia,1
+11427,MOL Onc Med 1 SDA Pre terapia COES,1
+11428,MOL Endocrinologia Onc SDA CO,1
+11451,MOL Coord.Ass.Psichiatrico Os,1
+11463,MOL Chir Gen Urg e PS 3 NOIMP,1
+10000,MOL PEIMAF Molinette,1

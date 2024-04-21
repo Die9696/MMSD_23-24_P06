@@ -1,0 +1,1817 @@
+DataOraAccettazione,Sesso,Codice Reparto,Nome Reparto,Codice Analisi,Nome Analisi,Materiale,Conteggio
+2022-01-10 06:30:00,F,10011,MOL DEA Med Urg Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10005,COVID1 TI 4907A Anestesia Ria,16053,SARS-CoV-2 RNA,Broncoaspirato,1
+2022-01-10 08:00:00,F,10384,MOL Week Surgery Urologia U D,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10366,MOL 0964 SSD Week Surgery Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,20555,RM SAN 6203,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,30577,CTO DH CHIR. VERTEBRALE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:30:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 05:43:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,F,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10245,MOL Nefrologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20355,SA S2C MEDIA INT 3706 G.O. 1U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:27:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20663,SA Ambulatorio Senologia Osp.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,M,30506,CTO DH ORTOP. TRAUMA 3,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10398,MOL Urologia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:05:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:48:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 21:51:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:00:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,10232,2610 Med Int 2 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,30010,CTO TRAUMATOLOGIA (P10),16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10251,MOL Coord.Ass.Psichiatrico Os,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:19:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,M,10632,MOL 3402 S.C. Oculistica U Da,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,M,20554,RM RIANIMAZIONE CARDIO 4904,16053,SARS-CoV-2 RNA,Lavaggio broncoalveolare,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,F,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:00:00,M,10245,MOL Nefrologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:56:00,F,30025,CTO P.S. PICCOLI TRAUMI,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 18:08:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:31:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 18:57:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20524,RM DH DIAGN CHIR 3801 ORL,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:07:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10034,MOL Neuroradiologia intervent,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10398,MOL Urologia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:30:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:00:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,20527,RM DH DIAGN CHIR 7801 URO PED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20522,RM DH DIAGN CHIR 1103 MLP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:23:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:53:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,F,10391,MOL Neurochirurgia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,F,10249,MOL Ematologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30599,CTO DH ORTOPEDIA ONCOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10142,MOL Gastroenterologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:14:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,30502,CTO DH NCH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,20524,RM DH DIAGN CHIR 3801 ORL,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,10232,2610 Med Int 2 U Deg,16053,SARS-CoV-2 RNA,Lavaggio broncoalveolare,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,M,10390,MOL Cardiochirurgia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 16:02:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 17:30:00,F,20412,SA TIN OSPEDALE 7301,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:45:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 01:44:00,F,30026,CTO AREA GRANDI TRAUMI,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,F,10264,MOL Stroke-unit SSD Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10005,COVID1 TI 4907A Anestesia Ria,16053,SARS-CoV-2 RNA,Broncoaspirato,1
+2022-01-10 07:00:00,M,10232,2610 Med Int 2 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:20:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10152,MOL Neurologia 2 U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30010,CTO TRAUMATOLOGIA (P10),16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:06:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10398,MOL Urologia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20522,RM DH DIAGN CHIR 1103 MLP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20522,RM DH DIAGN CHIR 1103 MLP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,20526,RM DH DIAGN CHIR 7601 NEUROCH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,10020,MOL Cardiologia U 3P TI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:00:00,M,10255,MOL Ematologia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:15:00,M,30026,CTO AREA GRANDI TRAUMI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,10140,MOL Cardiologia U 3P DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:15:00,M,10003,MOL PS Chirurgia ospedaliera,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10632,MOL 3402 S.C. Oculistica U Da,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20355,SA S2C MEDIA INT 3706 G.O. 1U,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:30:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,10243,MOL Dietetica Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:30:00,M,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:42:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 19:08:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 20:38:00,F,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 03:11:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,F,10023,COVID1 2616 Reparto Emergenza,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20340,SA S2B MEDIA INT 3701 G.O. 3 GIN,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10389,MOL Chir Toracica U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:19:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:30:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,20568,RM ONCOEMATOLOGIA 6501,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10445,MOL Nefrologia-Trapianti Amb,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:30:00,F,20355,SA S2C MEDIA INT 3706 G.O. 1U,16053,SARS-CoV-2 RNA,Placenta,1
+2022-01-10 15:10:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:22:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,M,10257,MOL Geriatria e malatt metab,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,M,10399,MOL ORL 2 U DH Centralizzato,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:19:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:30:00,M,10363,MOL Chir Gen Urg e PS 3 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10198,MOL Urologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10142,MOL Gastroenterologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20374,SA S1B MEDIA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10144,MOL Ambulatorio Mielomi Bring,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,20326,SA NIDO CLINICA 3102,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10390,MOL Cardiochirurgia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,10390,MOL Cardiochirurgia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 16:00:00,F,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:31:00,F,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:00:00,M,10020,MOL Cardiologia U 3P TI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:07:00,M,30026,CTO AREA GRANDI TRAUMI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:35:00,M,10001,MOL PS Medicina,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 19:00:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 03:44:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:00:00,F,20554,RM RIANIMAZIONE CARDIO 4904,16053,SARS-CoV-2 RNA,Broncoaspirato,1
+2022-01-10 06:30:00,F,10035,MOL 2606A Med Int 5,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10250,MOL Psichiatria-CPR DCA Deg U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,11571,MOL Dermo U NOIMP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,20577,RM CARDIO 0601 CARDIOCHIR,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,M,30001,CTO RIANIMAZ. SUD (P01),16053,SARS-CoV-2 RNA,Broncoaspirato,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,M,10524,MOL Banca del Sangue Amb Dona,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:46:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,20355,SA S2C MEDIA INT 3706 G.O. 1U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:48:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:43:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:14:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 18:24:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,M,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:27:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,30065,CTO MdL Universita' di Torino,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,M,30065,CTO MdL Universita' di Torino,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10394,MOL Chir Maxillo-Facciale U D,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10059,MOL Dialisi peritoneale domic,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,20326,SA NIDO CLINICA 3102,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 16:00:00,F,20573,RM PNEUMOLOGIA 6801,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 00:50:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20549,RM DH 3 PED 3905 AUXOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10363,MOL Chir Gen Urg e PS 3 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20340,SA S2B MEDIA INT 3701 G.O. 3 GIN,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,10225,MOL Oncologia Medica 1 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:15:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:30:00,M,10012,MOL Neurologia 3 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 19:06:00,F,10004,MOL PS Anest e Rianimazione 1,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:03:00,M,10003,MOL PS Chirurgia ospedaliera,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10103,MOL Chir Gen 2 U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,10257,MOL Geriatria e malatt metab,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10198,MOL Urologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:46:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10445,MOL Nefrologia-Trapianti Amb,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20527,RM DH DIAGN CHIR 7801 URO PED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,20520,RM DH DIAGN CHIR 1101 CHIR PE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:48:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 16:30:00,F,20573,RM PNEUMOLOGIA 6801,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 19:00:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 19:03:00,M,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 04:30:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10250,MOL Psichiatria-CPR DCA Deg U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10372,MOL Chir Gen 1 U Deg 2p,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:05:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:30:00,M,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:58:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:30:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,M,20553,RM RIANIMAZIONE E T.I. 4902,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:59:00,F,10001,MOL PS Medicina,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 17:00:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 17:24:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 19:00:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 21:38:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10391,MOL Neurochirurgia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10366,MOL 0964 SSD Week Surgery Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10249,MOL Ematologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10013,MOL Psichiatria SPDC Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:27:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:07:00,M,10014,MOL PS Chirurgia Univ,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,M,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20575,RM NEFROLOGIA 5802 GASTROENT,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 22:40:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 07:38:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,F,20663,SA Ambulatorio Senologia Osp.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:27:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10198,MOL Urologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10016,MOL DEA Med Urg TI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10390,MOL Cardiochirurgia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,M,10524,MOL Banca del Sangue Amb Dona,16053,SARS-CoV-2 RNA,Plasma,1
+2022-01-10 11:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:30:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,M,20326,SA NIDO CLINICA 3102,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20527,RM DH DIAGN CHIR 7801 URO PED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20520,RM DH DIAGN CHIR 1101 CHIR PE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,F,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:30:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 03:00:00,M,10238,MOL Neurologia 1 Deg C,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:00:00,M,10046,MOL Trapianto renale TI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,20523,RM DH DIAGN CHIR 3601 ORTOPED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:26:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20549,RM DH 3 PED 3905 AUXOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10013,MOL Psichiatria SPDC Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10237,MOL Insuff epatica e trap epa,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20355,SA S2C MEDIA INT 3706 G.O. 1U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,Lavaggio broncoalveolare,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,30010,CTO TRAUMATOLOGIA (P10),16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,20395,SA WS GINECOLOGICA 3710 G.O.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,20502,RM CARDIO 0801 CARDIOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10005,COVID1 TI 4907A Anestesia Ria,16053,SARS-CoV-2 RNA,Broncoaspirato,1
+2022-01-10 08:00:00,F,10389,MOL Chir Toracica U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30002,CTO 3001 Neurochirurgia,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10492,MOL 3014 SSD Chir Basicranio,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:05:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,10073,0910 Trapianti Fegato CH Gen,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:30:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 05:14:00,M,10001,MOL PS Medicina,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,M,10198,MOL Urologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:27:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,M,10363,MOL Chir Gen Urg e PS 3 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,30065,CTO MdL Universita' di Torino,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 09:37:00,M,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30338,OMA DH URO,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:43:00,M,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:00:00,M,20527,RM DH DIAGN CHIR 7801 URO PED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20502,RM CARDIO 0801 CARDIOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:59:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:36:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 16:19:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 17:30:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,F,10250,MOL Psichiatria-CPR DCA Deg U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10250,MOL Psichiatria-CPR DCA Deg U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20524,RM DH DIAGN CHIR 3801 ORL,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30013,CTO CHIR. GENERALE (P13),16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10013,MOL Psichiatria SPDC Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,30506,CTO DH ORTOP. TRAUMA 3,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:29:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 21:39:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 04:36:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,Tamp./aspirato nasale,1
+2022-01-10 06:00:00,M,10021,MOL Cardiologia U PT TI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10250,MOL Psichiatria-CPR DCA Deg U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:10:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,M,10389,MOL Chir Toracica U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10225,MOL Oncologia Medica 1 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 09:30:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:30:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,10398,MOL Urologia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,10437,MOL Insuff epatica e trap epa,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,10398,MOL Urologia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20502,RM CARDIO 0801 CARDIOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20355,SA S2C MEDIA INT 3706 G.O. 1U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,11425,MOL Oncologia Medica 1 SDA CO,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:46:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10251,MOL Coord.Ass.Psichiatrico Os,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20523,RM DH DIAGN CHIR 3601 ORTOPED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,F,10012,MOL Neurologia 3 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:23:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,10016,MOL DEA Med Urg TI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,M,10524,MOL Banca del Sangue Amb Dona,16053,SARS-CoV-2 RNA,Tamp./aspirato nasale,1
+2022-01-10 09:30:00,M,30338,OMA DH URO,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,20568,RM ONCOEMATOLOGIA 6501,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:30:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,10016,MOL DEA Med Urg TI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,10023,COVID1 2616 Reparto Emergenza,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,20329,SA S1A FISIOLOGIA 3702 G.O. 4,16053,SARS-CoV-2 RNA,Broncoaspirato,1
+2022-01-10 13:00:00,M,20522,RM DH DIAGN CHIR 1103 MLP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,20522,RM DH DIAGN CHIR 1103 MLP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:03:00,F,30026,CTO AREA GRANDI TRAUMI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 21:38:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:00:00,F,10045,MOL Trapianto renale Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,20520,RM DH DIAGN CHIR 1101 CHIR PE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10103,MOL Chir Gen 2 U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10225,MOL Oncologia Medica 1 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20328,SA S1A FISIOLOGIA 3701 G.O. 3,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,30010,CTO TRAUMATOLOGIA (P10),16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,30416,CTO 3604 Ortopedia e Traumato,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10398,MOL Urologia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,20414,SA TIN CLINICA 7302,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:32:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,20340,SA S2B MEDIA INT 3701 G.O. 3 GIN,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:33:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:45:00,M,10014,MOL PS Chirurgia Univ,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 03:41:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10240,MOL Cardiologia U 3P Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10186,MOL Otorinolaringoiatria 2 U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20549,RM DH 3 PED 3905 AUXOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:17:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:27:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10154,MOL Psichiatria CPR DCA DH U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,10238,MOL Neurologia 1 Deg C,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20522,RM DH DIAGN CHIR 1103 MLP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:59:00,F,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10240,MOL Cardiologia U 3P Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,10266,MOL Trap allo cellule stamina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:13:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10557,MOL Dermatologia chirurgica,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10142,MOL Gastroenterologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,20355,SA S2C MEDIA INT 3706 G.O. 1U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,30010,CTO TRAUMATOLOGIA (P10),16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:27:00,F,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,F,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:38:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:24:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 20:22:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 22:30:00,F,20575,RM NEFROLOGIA 5802 GASTROENT,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 03:41:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,F,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20526,RM DH DIAGN CHIR 7601 NEUROCH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,20395,SA WS GINECOLOGICA 3710 G.O.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:58:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,30506,CTO DH ORTOP. TRAUMA 3,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:15:00,F,10002,MOL PS Neurologia,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 00:53:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,F,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,20520,RM DH DIAGN CHIR 1101 CHIR PE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20524,RM DH DIAGN CHIR 3801 ORL,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20526,RM DH DIAGN CHIR 7601 NEUROCH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,20663,SA Ambulatorio Senologia Osp.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:27:00,M,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 00:17:00,M,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 01:09:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 05:07:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10240,MOL Cardiologia U 3P Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20526,RM DH DIAGN CHIR 7601 NEUROCH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,M,20520,RM DH DIAGN CHIR 1101 CHIR PE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10225,MOL Oncologia Medica 1 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10245,MOL Nefrologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:27:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20374,SA S1B MEDIA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:44:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:30:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,20355,SA S2C MEDIA INT 3706 G.O. 1U,16053,SARS-CoV-2 RNA,Placenta,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 23:43:00,M,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 02:03:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:00:00,F,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,10249,MOL Ematologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:15:00,M,10003,MOL PS Chirurgia ospedaliera,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,F,20549,RM DH 3 PED 3905 AUXOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:06:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,11466,MOL Trap allo cellule stamina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,20524,RM DH DIAGN CHIR 3801 ORL,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,M,10583,MOL Med Int 4 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:00:00,M,30077,CTO 3602 Chirurgia Vertebrale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20395,SA WS GINECOLOGICA 3710 G.O.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,10140,MOL Cardiologia U 3P DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10381,MOL Chir Vascolare Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,M,30002,CTO 3001 Neurochirurgia,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,M,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:30:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:00:00,F,10005,COVID1 TI 4907A Anestesia Ria,16053,SARS-CoV-2 RNA,Broncoaspirato,1
+2022-01-10 07:30:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,F,10398,MOL Urologia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:30:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10242,MOL Gastroenterologia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10361,MOL Chir Gen 2 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,20324,SA NIDO OSPEDALE 3101,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:20:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:33:00,M,10001,MOL PS Medicina,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 17:05:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 17:59:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,20554,RM RIANIMAZIONE CARDIO 4904,16053,SARS-CoV-2 RNA,Broncoaspirato,1
+2022-01-10 07:00:00,M,10140,MOL Cardiologia U 3P DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20520,RM DH DIAGN CHIR 1101 CHIR PE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10372,MOL Chir Gen 1 U Deg 2p,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10363,MOL Chir Gen Urg e PS 3 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10370,MOL Chir Oncologica SSD Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,F,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:15:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 19:00:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 22:32:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:00:00,F,10243,MOL Dietetica Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10732,MOL 6904 Radiologia 1 U Costi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10225,MOL Oncologia Medica 1 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:19:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,11455,MOL Ematologia U SDA COES,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:16:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:27:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:14:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:56:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 19:08:00,F,10014,MOL PS Chirurgia Univ,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 23:30:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 03:41:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10390,MOL Cardiochirurgia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10142,MOL Gastroenterologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,10016,MOL DEA Med Urg TI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,M,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:00:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:00:00,F,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:06:00,M,30026,CTO AREA GRANDI TRAUMI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 05:07:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:20:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20568,RM ONCOEMATOLOGIA 6501,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10255,MOL Ematologia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:18:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:30:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,M,20324,SA NIDO OSPEDALE 3101,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:18:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,20520,RM DH DIAGN CHIR 1101 CHIR PE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:36:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:30:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:37:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:41:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 07:00:00,M,20523,RM DH DIAGN CHIR 3601 ORTOPED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 07:30:00,M,30912,CTO 3607 Ortopedia e Traumato,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10372,MOL Chir Gen 1 U Deg 2p,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10249,MOL Ematologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20340,SA S2B MEDIA INT 3701 G.O. 3 GIN,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:17:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20663,SA Ambulatorio Senologia Osp.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:36:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:00:00,M,20527,RM DH DIAGN CHIR 7801 URO PED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,10632,MOL 3402 S.C. Oculistica U Da,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 18:30:00,M,10011,MOL DEA Med Urg Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 20:28:00,F,10014,MOL PS Chirurgia Univ,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 02:15:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 03:25:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10035,MOL 2606A Med Int 5,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30506,CTO DH ORTOP. TRAUMA 3,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10281,MOL Chir Vasc Prericovero DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20340,SA S2B MEDIA INT 3701 G.O. 3 GIN,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,M,10632,MOL 3402 S.C. Oculistica U Da,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30506,CTO DH ORTOP. TRAUMA 3,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,20663,SA Ambulatorio Senologia Osp.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:08:00,F,10001,MOL PS Medicina,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,10445,MOL Nefrologia-Trapianti Amb,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:00:00,F,10245,MOL Nefrologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:00:00,M,10046,MOL Trapianto renale TI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,30912,CTO 3607 Ortopedia e Traumato,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10013,MOL Psichiatria SPDC Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:39:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10142,MOL Gastroenterologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,10391,MOL Neurochirurgia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,30599,CTO DH ORTOPEDIA ONCOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:30:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20575,RM NEFROLOGIA 5802 GASTROENT,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 01:06:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 01:09:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:00:00,M,10583,MOL Med Int 4 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20395,SA WS GINECOLOGICA 3710 G.O.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,20523,RM DH DIAGN CHIR 3601 ORTOPED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,10232,2610 Med Int 2 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,30801,COVID CTO 2501 Medicina del L,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,M,10168,MOL Chir Gen 1 U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:27:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10511,MOL Pneumologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,M,10257,MOL Geriatria e malatt metab,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:40:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 03:41:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10035,MOL 2606A Med Int 5,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,M,10506,MOL Cure Palliative Deg. Ord.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20528,RM PEDIATRIA II 2401,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,30506,CTO DH ORTOP. TRAUMA 3,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,20554,RM RIANIMAZIONE CARDIO 4904,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:41:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,M,10361,MOL Chir Gen 2 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,10445,MOL Nefrologia-Trapianti Amb,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 16:45:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,F,10257,MOL Geriatria e malatt metab,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,10232,2610 Med Int 2 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10372,MOL Chir Gen 1 U Deg 2p,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10632,MOL 3402 S.C. Oculistica U Da,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,20568,RM ONCOEMATOLOGIA 6501,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,20568,RM ONCOEMATOLOGIA 6501,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,20326,SA NIDO CLINICA 3102,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:47:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:48:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,20502,RM CARDIO 0801 CARDIOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:36:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:16:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 21:26:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 22:54:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,F,10063,COVID9 2634 Molinette,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,11571,MOL Dermo U NOIMP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10245,MOL Nefrologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:00:00,F,10361,MOL Chir Gen 2 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,M,30503,CTO DH CHIR. PLASTICA GU.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,11428,MOL Endocrinologia Onc SDA CO,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:16:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:15:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:30:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 17:37:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 21:37:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 22:47:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 22:45:00,F,30026,CTO AREA GRANDI TRAUMI,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:00:00,M,10005,COVID1 TI 4907A Anestesia Ria,16053,SARS-CoV-2 RNA,Broncoaspirato,1
+2022-01-10 07:00:00,F,20395,SA WS GINECOLOGICA 3710 G.O.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20523,RM DH DIAGN CHIR 3601 ORTOPED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20524,RM DH DIAGN CHIR 3801 ORL,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10366,MOL 0964 SSD Week Surgery Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:27:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,10492,MOL 3014 SSD Chir Basicranio,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:18:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:04:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:20:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,10445,MOL Nefrologia-Trapianti Amb,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 21:25:00,M,10001,MOL PS Medicina,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 03:30:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:00:00,M,10049,COVID3 2619 molinette,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,F,20520,RM DH DIAGN CHIR 1101 CHIR PE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10396,MOL Otorinolaringoiatria 2 U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10045,MOL Trapianto renale Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20329,SA S1A FISIOLOGIA 3702 G.O. 4,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10372,MOL Chir Gen 1 U Deg 2p,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:00:00,F,20502,RM CARDIO 0801 CARDIOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 05:33:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:00:00,F,20528,RM PEDIATRIA II 2401,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,10232,2610 Med Int 2 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,F,10557,MOL Dermatologia chirurgica,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:27:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:15:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 21:25:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 07:15:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:21:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:30:00,M,30001,CTO RIANIMAZ. SUD (P01),16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10186,MOL Otorinolaringoiatria 2 U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20340,SA S2B MEDIA INT 3701 G.O. 3 GIN,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:41:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:27:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:54:00,F,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:19:00,M,30026,CTO AREA GRANDI TRAUMI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,10251,MOL Coord.Ass.Psichiatrico Os,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,11571,MOL Dermo U NOIMP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20502,RM CARDIO 0801 CARDIOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,M,20568,RM ONCOEMATOLOGIA 6501,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:00:00,F,30013,CTO CHIR. GENERALE (P13),16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,10264,MOL Stroke-unit SSD Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:43:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 18:27:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 19:14:00,M,10014,MOL PS Chirurgia Univ,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 07:00:00,F,20395,SA WS GINECOLOGICA 3710 G.O.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,M,10012,MOL Neurologia 3 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10103,MOL Chir Gen 2 U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,10632,MOL 3402 S.C. Oculistica U Da,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10363,MOL Chir Gen Urg e PS 3 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:42:00,F,10002,MOL PS Neurologia,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:17:00,F,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:50:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 03:44:00,M,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 04:29:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 07:00:00,M,30010,CTO TRAUMATOLOGIA (P10),16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20502,RM CARDIO 0801 CARDIOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10372,MOL Chir Gen 1 U Deg 2p,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:12:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:05:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:05:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,20568,RM ONCOEMATOLOGIA 6501,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:00:00,F,20522,RM DH DIAGN CHIR 1103 MLP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 18:39:00,M,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 20:22:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 04:01:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:00:00,M,10251,MOL Coord.Ass.Psichiatrico Os,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,M,10103,MOL Chir Gen 2 U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10045,MOL Trapianto renale Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,20535,RM PEDIATRIA D'URGENZA 3901,16053,SARS-CoV-2 RNA,Lavaggio broncoalveolare,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10198,MOL Urologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:36:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 16:00:00,M,20573,RM PNEUMOLOGIA 6801,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:00:00,F,20326,SA NIDO CLINICA 3102,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:00:00,M,30416,CTO 3604 Ortopedia e Traumato,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10035,MOL 2606A Med Int 5,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20520,RM DH DIAGN CHIR 1101 CHIR PE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20523,RM DH DIAGN CHIR 3601 ORTOPED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:30:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,M,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10142,MOL Gastroenterologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20400,SA DAY SURGERY 3707 IVG,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20555,RM SAN 6203,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:04:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,M,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:24:00,F,30025,CTO P.S. PICCOLI TRAUMI,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:00:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:11:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 18:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:27:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:00:00,F,10005,COVID1 TI 4907A Anestesia Ria,16053,SARS-CoV-2 RNA,Broncoaspirato,1
+2022-01-10 06:30:00,F,10250,MOL Psichiatria-CPR DCA Deg U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,10372,MOL Chir Gen 1 U Deg 2p,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10372,MOL Chir Gen 1 U Deg 2p,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:46:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,M,20326,SA NIDO CLINICA 3102,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:48:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 16:00:00,F,10045,MOL Trapianto renale Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:41:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 03:30:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:35:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 07:00:00,M,20523,RM DH DIAGN CHIR 3601 ORTOPED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10198,MOL Urologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10013,MOL Psichiatria SPDC Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,F,20555,RM SAN 6203,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20374,SA S1B MEDIA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 10:12:00,M,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,20355,SA S2C MEDIA INT 3706 G.O. 1U,16053,SARS-CoV-2 RNA,Placenta,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:30:00,F,20329,SA S1A FISIOLOGIA 3702 G.O. 4,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:48:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:00:00,F,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:17:00,M,10001,MOL PS Medicina,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:29:00,F,10002,MOL PS Neurologia,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,M,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10238,MOL Neurologia 1 Deg C,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,10241,MOL Cardiologia U PT Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,10232,2610 Med Int 2 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:06:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 07:13:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10137,MOL Week Hosp Neurologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,10186,MOL Otorinolaringoiatria 2 U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,M,10461,MOL Chir Gen 2 U Amb,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,M,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:14:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20520,RM DH DIAGN CHIR 1101 CHIR PE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,10073,0910 Trapianti Fegato CH Gen,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 16:06:00,F,10014,MOL PS Chirurgia Univ,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 20:53:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 23:44:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 01:14:00,M,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10264,MOL Stroke-unit SSD Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20520,RM DH DIAGN CHIR 1101 CHIR PE,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20663,SA Ambulatorio Senologia Osp.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20328,SA S1A FISIOLOGIA 3701 G.O. 3,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10198,MOL Urologia U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 09:00:00,F,20384,SA WS GINECOLOGICA 3701 G.O.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10370,MOL Chir Oncologica SSD Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20524,RM DH DIAGN CHIR 3801 ORL,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20526,RM DH DIAGN CHIR 7601 NEUROCH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:40:00,M,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 22:00:00,F,10245,MOL Nefrologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 00:50:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,F,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,M,10461,MOL Chir Gen 2 U Amb,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10372,MOL Chir Gen 1 U Deg 2p,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10045,MOL Trapianto renale Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10391,MOL Neurochirurgia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20374,SA S1B MEDIA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:30:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,M,20414,SA TIN CLINICA 7302,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:07:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 18:04:00,M,10014,MOL PS Chirurgia Univ,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 19:14:00,M,10014,MOL PS Chirurgia Univ,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 21:00:00,M,10506,MOL Cure Palliative Deg. Ord.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:00:00,M,10005,COVID1 TI 4907A Anestesia Ria,16053,SARS-CoV-2 RNA,Broncoaspirato,1
+2022-01-10 06:30:00,F,10049,COVID3 2619 molinette,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20395,SA WS GINECOLOGICA 3710 G.O.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20523,RM DH DIAGN CHIR 3601 ORTOPED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,11571,MOL Dermo U NOIMP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10147,MOL Nefrologia DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10013,MOL Psichiatria SPDC Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10013,MOL Psichiatria SPDC Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,20568,RM ONCOEMATOLOGIA 6501,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,30502,CTO DH NCH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,30599,CTO DH ORTOPEDIA ONCOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:04:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:00:00,M,20524,RM DH DIAGN CHIR 3801 ORL,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20522,RM DH DIAGN CHIR 1103 MLP,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20575,RM NEFROLOGIA 5802 GASTROENT,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:01:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:10:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:26:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:32:00,F,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 20:38:00,F,10001,MOL PS Medicina,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 21:26:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 07:00:00,F,20395,SA WS GINECOLOGICA 3710 G.O.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,10389,MOL Chir Toracica U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20462,RM CHIR MBASSA 1101 PED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10186,MOL Otorinolaringoiatria 2 U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20374,SA S1B MEDIA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30506,CTO DH ORTOP. TRAUMA 3,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,10632,MOL 3402 S.C. Oculistica U Da,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,20355,SA S2C MEDIA INT 3706 G.O. 1U,16053,SARS-CoV-2 RNA,Placenta,1
+2022-01-10 12:00:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:30:00,M,10046,MOL Trapianto renale TI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:30:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 16:00:00,M,10057,MOL Emodialisi SMOM,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 17:20:00,M,10002,MOL PS Neurologia,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 19:41:00,F,10001,MOL PS Medicina,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 20:30:00,F,20568,RM ONCOEMATOLOGIA 6501,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 21:29:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10239,MOL Neuro Oncologia Clinica S,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:20:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,M,20502,RM CARDIO 0801 CARDIOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,30010,CTO TRAUMATOLOGIA (P10),16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:27:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30599,CTO DH ORTOPEDIA ONCOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:54:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 13:00:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:30:00,M,20554,RM RIANIMAZIONE CARDIO 4904,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:32:00,M,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,M,10390,MOL Cardiochirurgia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:11:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:09:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:07:00,M,10014,MOL PS Chirurgia Univ,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 19:20:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 21:08:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 21:37:00,M,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 21:39:00,F,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 01:53:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 06:30:00,M,10049,COVID3 2619 molinette,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,10140,MOL Cardiologia U 3P DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,10241,MOL Cardiologia U PT Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,M,10232,2610 Med Int 2 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20335,SA S2A MEDIA INT 3702 G.O. 4 OST,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,11563,MOL 5206-0924 Attivita' SDA -,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10370,MOL Chir Oncologica SSD Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10242,MOL Gastroenterologia U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:30:00,F,10445,MOL Nefrologia-Trapianti Amb,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,30505,CTO DH I CLINICA ORTOPEDICA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,20568,RM ONCOEMATOLOGIA 6501,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,20368,SA S2D ALTA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 17:59:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:03:00,F,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 03:00:00,F,10238,MOL Neurologia 1 Deg C,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,M,10363,MOL Chir Gen Urg e PS 3 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10555,MOL Dermo Prericovero DH Cent,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,30010,CTO TRAUMATOLOGIA (P10),16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,19000,MOL Centro Prelievi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:10:00,M,10002,MOL PS Neurologia,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:58:00,M,20176,SA Pronto Soccorso,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:45:00,F,10044,MOL 01-OBI EMERGENZA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 19:14:00,M,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 19:16:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:53:00,M,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 07:00:00,F,20526,RM DH DIAGN CHIR 7601 NEUROCH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10033,MOL Radiologia diagnostica 3,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,F,30994,CTO AMB  2901 Nefrologia e dialisi,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,20412,SA TIN OSPEDALE 7301,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:30:00,M,10363,MOL Chir Gen Urg e PS 3 Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,M,10020,MOL Cardiologia U 3P TI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 15:30:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 18:07:00,M,10014,MOL PS Chirurgia Univ,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 18:24:00,M,10044,MOL 01-OBI EMERGENZA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:00:00,F,20395,SA WS GINECOLOGICA 3710 G.O.,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:00:00,M,10103,MOL Chir Gen 2 U DH,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,M,10045,MOL Trapianto renale Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20374,SA S1B MEDIA INT 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,M,10361,MOL Chir Gen 2 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:58:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,10228,MOL Endocrinologia Oncologica,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,20571,RM DH ONCO 6502 ONCOEMATOLOGI,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,M,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:50:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,M,20553,RM RIANIMAZIONE E T.I. 4902,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 15:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:30:00,F,20573,RM PNEUMOLOGIA 6801,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 16:55:00,F,10014,MOL PS Chirurgia Univ,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 21:00:00,F,20193,RM DEA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10233,MOL Med Int 3 U Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,F,10256,MOL Endocrinologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:30:00,M,10063,COVID9 2634 Molinette,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 06:36:00,F,20176,SA Pronto Soccorso,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 08:38:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,M,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 08:51:00,F,46720,CHIERI - Osp. Maggiore,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,20270,UF Direzione Sanitaria S.Anna,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 09:00:00,F,30599,CTO DH ORTOPEDIA ONCOLOGIA,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 10:00:00,F,20568,RM ONCOEMATOLOGIA 6501,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 11:00:00,F,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:00:00,M,30030,CTO Direzione Sanitaria rischio occupazionale,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 11:30:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 12:00:00,F,20587,SA DAY SURGERY 3710 G.O. 2U,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 12:30:00,F,10245,MOL Nefrologia Deg,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:00:00,F,20527,RM DH DIAGN CHIR 7801 URO PED,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 13:14:00,F,20193,RM DEA,16058,SARS CoV2 Antigene,Tamp./aspirato nasale,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
+2022-01-10 14:00:00,F,10499,Med Lavoro Tamponi Antigenici,16053,SARS-CoV-2 RNA,T. rinofaringeo,1
